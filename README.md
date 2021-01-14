@@ -1,16 +1,14 @@
-# todo_app
+# Flutter Todo App
 
-A new Flutter project.
+A simple full-stack Todo app made in Flutter and powered by Google Firestore.
 
-## Getting Started
+Based on: [Flutter Tutorial - Building a Production App From Scratch](https://www.youtube.com/watch?v=aiTTClKJbnw&ab_channel=freeCodeCamp.org) by [Tadas Petra](https://www.youtube.com/channel/UCNaJHBXsvbfkItVMNmzmTPQ).
 
-This project is a starting point for a Flutter application.
+### Basic architectural diagram:
+![Todo_app_architectural_diagram](https://user-images.githubusercontent.com/22490250/104659439-a2b64400-5692-11eb-8435-a49971cd1437.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Wireframe of desired app:
+![Todo_app_wireframes](https://user-images.githubusercontent.com/22490250/104659485-b5307d80-5692-11eb-8629-54628e8e7cd4.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots of actual app:
+![Todo_app_screenshots](https://user-images.githubusercontent.com/22490250/104659506-bd88b880-5692-11eb-8ce8-787495c1cd2b.png)
